@@ -1,0 +1,222 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "speciale": "Iron",
+            "title": "Iron Man",
+            "poster": "./images/Iron_Man_(2008_film)_poster.jpg",
+            "year": "2008",
+            "info": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+            "director": "Jon Favreau",
+            "budget": "140000000$",
+            "writers": "Mark Fergus(screenplay),Hawk Ostby(screenplay),Art Marcum(screenplay) ...",
+            "stars": "Robert Downey Jr. ,Gwyneth Paltrow ,Terrence Howard ..."
+        },
+        {
+            "id": 2,
+            "speciale": "Iron",
+            "title": "Iron Man 2",
+            "poster": "./images/iron-man-2.jpg",
+            "year": "2010",
+            "info": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+            "director": "Jon Favreau",
+            "budget": "200000000$",
+            "writers": "Justin Theroux(screenplay) ,Stan Lee(Marvel comic book) ,Don Heck(Marvel comic book) ...",
+            "stars": " Robert Downey Jr. ,Mickey Rourke , Gwyneth Paltrow ..."
+        },
+        {
+            "id": 3,
+            "speciale": "Iron",
+            "title": "Iron Man 3",
+            "poster": "./images/Iron_Man_3.jpg",
+            "year": "2013",
+            "info": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+            "director": "Shane Black",
+            "budget": "200000000$",
+            "writers": "Drew Pearce(screenplay by) ,Shane Black(screenplay by) ,Stan Lee(based on the Marvel comic book by)",
+            "stars": " Robert Downey Jr. ,Guy Pearce ,Gwyneth Paltrow ..."
+        },
+        {
+            "id": 4,
+            "speciale": "Iron",
+            "title": "Iron fist",
+            "poster": "./images/iron_fist.jpg",
+            "year": "2017 - 2018",
+            "info": "A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.",
+            "director": "Scott Buck",
+            "budget": "no information",
+            "writers": "no information",
+            "stars": "Finn JonesJessica , HenwickJessica Stroup"
+        },
+        {
+            "id": 5,
+            "speciale": "Iron",
+            "title": "Iron sky",
+            "poster": "./images/iron_sky.jpg",
+            "year": "2012",
+            "info": "The Nazis set up a secret base on the dark side of the moon in 1945 where they hide out and plan to return to power in 2018.",
+            "director": "Timo Vuorensola",
+            "budget": "no information",
+            "writers": "Jarmo Puskala(original concept) ,Johanna Sinisalo(based on a story by) ,Michael Kalesniko(screenplay by)",
+            "stars": "Julia Dietze ,Christopher KirbyGötz Otto"
+        },
+        {
+            "id": 6,
+            "speciale": "Iron",
+            "title": "The Man in the Iron Mask",
+            "poster": "./images/iron_mask.jpg",
+            "year": "1998",
+            "info": "The cruel King Louis XIV of France has a secret twin brother whom he keeps imprisoned. Can the twin be substituted for the real king?",
+            "director": "Randall Wallace",
+            "budget": "no information",
+            "writers": "Alexandre Dumas(novels Vingt ans après and Le Vicomte de Bragelonne) ,Randall Wallace(screenplay)",
+            "stars": "Leonardo DiCaprioJeremy , IronsJohn Malkovich"
+        }
+    ,
+        {
+            "id": 7,
+            "speciale": "Batman",
+            "title": "Batman",
+            "poster": "./images/batman/batman-1989.jpg",
+            "year": "1989",
+            "info": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+            "director": "Tim Burton",
+            "budget": "35 000 000 $",
+            "writers": "Bob Kane(Batman characters) ,Sam Hamm(story)Warren Skaaren(screenplay)",
+            "stars": "Michael KeatonJack ,NicholsonKim Basinger"
+        },
+        {
+            "id": 8,
+            "speciale": "Batman",
+            "title": "Batman Returns",
+            "poster": "./images/batman/batman_returns.jpg",
+            "year": "1992",
+            "info": "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.",
+            "director": "Tim Burton",
+            "budget": "80 000 000 $",
+            "writers": "Bob Kane(Batman characters) ,Daniel Waters(story)Sam Hamm(story)",
+            "stars": "Michael KeatonDanny ,DeVitoMichelle Pfeiffer"
+        },
+        {
+            "id": 9,
+            "speciale": "Batman",
+            "title": "Batman & Robin",
+            "poster": "./images/batman/Batman_&_Robin_poster.jpg",
+            "year": "1997",
+            "info": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+            "director": "Joel Schumacher",
+            "budget": "125 000 000 $",
+            "writers": "Bob Kane(Batman characters) ,Akiva Goldsman",
+            "stars": "Arnold Schwarzenegger ,George Clooney ,Chris O'Donnell"
+        },
+        {
+            "id": 10,
+            "speciale": "Batman",
+            "title": "Batman Begins",
+            "poster": "./images/batman/Batman_Begins_poster4.webp",
+            "year": "2005",
+            "info": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+            "director": "Christopher Nolan",
+            "budget": "150 000 000 $",
+            "writers": "Bob Kane(characters) ,David S. Goyer(story) ,Christopher Nolan(screenplay)",
+            "stars": "Christian BaleMichael ,CaineKen Watanabe"
+        },
+        {
+            "id": 11,
+            "speciale": "Batman",
+            "title": "Batman: Death in the Family",
+            "poster": "./images/batman/MV5BYTE2YjI4NTAtMDZiOC00NWQyLTk5ZjctNzQ0NjE5ZTE4NjhkXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_FMjpg_UX1000_.jpg",
+            "year": "2020",
+            "info": "An anthology series of 5 DC showcase: Death in the Family, Sgt. Rock, Adam Strange, The Phantom Stranger and Death.",
+            "director": "Brandon Vietti",
+            "budget": " no information",
+            "writers": "Jim Aparo(based on: Batman) ,Bob Brown(character created by: Talia al Ghul) ,Gerry Conway(character created by: Jason Todd)",
+            "stars": "Bruce Greenwood(voice) ,Vincent Martella(voice) ,John DiMaggio(voice)"
+        },
+        {
+            "id": 12,
+            "speciale": "Batman",
+            "title": "Batman v Superman",
+            "poster": "./images/batman/batman_vs_ superman.jpg",
+            "year": "2016",
+            "info": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+            "director": "Zack Snyder",
+            "budget": "250 000 000 $",
+            "writers": "Chris TerrioDavid S. Goyer ,Bob Kane(Batman created by)",
+            "stars": "Ben Affleck Henry Cavill Amy Adams"
+        },
+        {
+            "id" : 13,
+            "speciale" : "Superman",
+            "title" : "Superman",
+            "poster" : "./images/superman/Superman_(1978_film_poster).jpg",
+            "year" : "1978",
+            "info" : "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+            "director" : "Richard Donner",
+            "budget" : "55 000 000 $",
+            "writers": "Jerry Siegel(character created by: Superman) ,Joe Shuster(character created by: Superman) ,Mario Puzo(story)",
+            "stars" : "Christopher Reeve ,Margot Kidder ,Gene Hackman"
+        },
+        {
+            "id" : 14,
+            "speciale" : "Superman",
+            "title" : "Superman III",
+            "poster" : "./images/superman/Superman3.jpg",
+            "year" : "1983",
+            "info" : "Synthetic kryptonite laced with tar splits Superman in two: good Clark Kent and bad Man of Steel.,director",
+            "director": "Richard Lester",
+            "budget" : "39 000 000 $",
+            "writers": "Jerry Siegel(character created by: Superman) ,Joe Shuster(character created by: Superman) ,David Newman(screenplay by)",
+            "stars" : "Christopher Reeve ,Richard Pryor ,Margot Kidder"
+        },
+        {
+            "id" : 15,
+            "speciale" : "Superman",
+            "title" : "Superman Returns",
+            "poster" : "./images/superman/Superman_Returns.jpg",
+            "year" : "2006",
+            "info" : "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+            "director" : "Bryan Singer",
+            "budget" : "204 000 000 $",
+            "writers": "Michael Dougherty(screenplay) ,Dan Harris(screenplay) ,Bryan Singer(story)",
+            "stars" : "Brandon RouthKevin SpaceyKate Bosworth"
+        },
+        {
+            "id": 16,
+            "speciale": "Superman",
+            "title": "Batman v Superman",
+            "poster": "./images/batman/batman_vs_ superman.jpg",
+            "year": "2016",
+            "info": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+            "director": "Zack Snyder",
+            "budget": "250 000 000 $",
+            "writers": "Chris TerrioDavid S. Goyer ,Bob Kane(Batman created by)",
+            "stars": "Ben Affleck Henry Cavill Amy Adams"
+        },
+        {
+            "id" : 17,
+            "speciale" : "Superman",
+            "title" : "Superman/Batman: Apocalypse",
+            "poster" : "/images/superman/Superman_Batman_ Apocalypse.jpg",
+            "year" : "2010",
+            "info" : "Batman discovers a mysterious teen-aged girl with super-human powers and a connection to Superman. When the girl comes to the attention of Darkseid, the evil overlord of Apokolips, events take a decidedly dangerous turn.",
+            "director" : "Lauren Montgomery",
+            "budget" : "no information",
+            "writers": "Bob Kane(character created by: Batman) ,Jerry Siegel(character created by: Superman) ,Joe Shuster(character created by: Superman)",
+            "stars" : "Andre Braugher(voice) ,Kevin Conroy(voice) ,Tim Daly(voice)"
+        },
+        {
+            "id" : 18,
+            "speciale" : "Superman",
+            "title" : "Man of Steel",
+            "poster" : "./images/superman/superman.jpg",
+            "year" : "2013",
+            "info" : "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+            "director" : "Zack Snyder",
+            "budget" : "225 000 000 $",
+            "writers": "David S. Goyer(screenplay) ,Christopher Nolan(story) ,Jerry Siegel(Superman created by)",
+            "stars" : "Henry Cavill ,Amy Adams ,Michael Shannon"
+        }
+
+    ]
+}
